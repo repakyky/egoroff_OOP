@@ -1,6 +1,6 @@
 
 # Наследование от базового класса object
-# Всё - объект: 34, 'asdasd', int, Person. Можно проверить через isinstance(smthng, object)
+# Всё - объект: 34, 'asdasd', int, Person. Можно проверить через isinstance(something, object)
 # По-умолчанию любой класс наследуется от object
 
 class Person:   # == Person(object):
