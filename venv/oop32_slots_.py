@@ -35,6 +35,7 @@ def make_cls_pointslots():
 
 a = Point(1, 1)
 b = PointSlots(1, 1)
+
 print(a.__sizeof__() + a.__dict__.__sizeof__())
 print(b.__sizeof__())
 
